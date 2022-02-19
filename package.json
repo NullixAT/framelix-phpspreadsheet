@@ -1,0 +1,7 @@
+{
+  "version": "1.22.0",
+  "name": "framelix-phpspreadsheet",
+  "framelix": {
+    "module": "PhpSpreadsheet"
+  }
+}
