@@ -1,2 +1,1 @@
-# framelix-phpspreadsheet
-PhpSpreadsheet Wrapper for Framelix.
+# PhpSpreadsheet Wrapper for [Framelix](https://github.com/NullixAT/framelix-core)
